@@ -13,4 +13,3 @@ else:
     print("la fecha:", fecha, "no es un viernes 13:(")
 
        
-

@@ -16,8 +16,3 @@ for i in de31:
         else: 
             print("la fecha:", fecha, "no es un viernes 13:(")
 
-
-
-       
-
-
